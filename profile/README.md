@@ -1,0 +1,2 @@
+# FastRAMP
+FastRAMP is an open source, community-driven solution that automates the majority of FedRAMP security reviews, letting agencies approve vendors faster while zeroing in on what really counts — security risk.
